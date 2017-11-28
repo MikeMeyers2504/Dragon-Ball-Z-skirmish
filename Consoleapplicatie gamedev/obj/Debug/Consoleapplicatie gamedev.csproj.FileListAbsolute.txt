@@ -17,3 +17,11 @@ C:\Users\Mike\Desktop\Consoleapplicatie gamedev\Consoleapplicatie gamedev\obj\De
 C:\Users\Mike\Desktop\Consoleapplicatie gamedev\Consoleapplicatie gamedev\obj\Debug\Consoleapplicatie gamedev.csproj.ResolveComReference.cache
 C:\Users\Mike\Desktop\Consoleapplicatie gamedev\Consoleapplicatie gamedev\obj\Debug\Consoleapplicatie gamedev.exe
 C:\Users\Mike\Desktop\Consoleapplicatie gamedev\Consoleapplicatie gamedev\obj\Debug\Consoleapplicatie gamedev.pdb
+C:\Users\Mike\Desktop\AP elektronica-ict\Consoleapplicatie gamedev\Consoleapplicatie gamedev\bin\Debug\Consoleapplicatie gamedev.exe.config
+C:\Users\Mike\Desktop\AP elektronica-ict\Consoleapplicatie gamedev\Consoleapplicatie gamedev\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Mike\Desktop\AP elektronica-ict\Consoleapplicatie gamedev\Consoleapplicatie gamedev\obj\Debug\Consoleapplicatie gamedev.csproj.ResolveComReference.cache
+C:\Users\Mike\Desktop\AP elektronica-ict\Consoleapplicatie gamedev\Consoleapplicatie gamedev\obj\Debug\Consoleapplicatie gamedev.exe
+C:\Users\Mike\Desktop\AP elektronica-ict\Consoleapplicatie gamedev\Consoleapplicatie gamedev\obj\Debug\Consoleapplicatie gamedev.pdb
+C:\Users\Mike\Desktop\AP elektronica-ict\Consoleapplicatie gamedev\Consoleapplicatie gamedev\bin\Debug\Consoleapplicatie gamedev.exe
+C:\Users\Mike\Desktop\AP elektronica-ict\Consoleapplicatie gamedev\Consoleapplicatie gamedev\bin\Debug\Consoleapplicatie gamedev.pdb
+C:\Users\Mike\Desktop\AP elektronica-ict\Consoleapplicatie gamedev\Consoleapplicatie gamedev\obj\Debug\Consoleapplicatie gamedev.csprojResolveAssemblyReference.cache
